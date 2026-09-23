@@ -47,7 +47,7 @@ The project follows a modular backend architecture and integrates **LangGraph**,
 
 ## 📁 Project Structure
 
-```text
+---
 student-database-backend/
 │
 ├── app/
@@ -78,6 +78,7 @@ student-database-backend/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+---
 
 🔌 API Endpoints
 Student APIs
