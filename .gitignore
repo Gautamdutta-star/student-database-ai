@@ -1,0 +1,35 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database
+students.db
+*.db-journal
+
+# ChromaDB local vector database
+chroma_db/
+
+# Frontend dependencies
+node_modules/
+student-database-frontend/node_modules/
+
+# Frontend build
+dist/
+student-database-frontend/dist/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
