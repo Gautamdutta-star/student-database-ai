@@ -157,7 +157,6 @@ Example Student
 }
 
 ⚙️ Installation
-```
 1. Clone the Repository
 git clone https://github.com/Gautamdutta-star/student-database-ai.git
 
@@ -183,7 +182,6 @@ Important: Never commit your actual Gemini API key to GitHub.
 uvicorn app.main:app --reload
 The backend will run at:
 http://127.0.0.1:8000
-```
 
 📖 Swagger API Documentation
 FastAPI automatically provides interactive Swagger documentation.
@@ -289,8 +287,12 @@ Request Body:
 🔗 Project Links
 GitHub Repository
 https://github.com/Gautamdutta-star/student-database-ai
+```
+```
 Live Backend
 https://student-database-ai.onrender.com
+```
+```
 Live Swagger Documentation
 https://student-database-ai.onrender.com/docs
 ```
